@@ -9,6 +9,7 @@ It packages the folder into a `.zip` file and uploads it directly to the target 
 - Fully automated ZIP packaging and upload
 - Supports both draft (`preview`) and production deployment
 - Logs progress to the console for transparency
+- Includes `check_ascii_filenames_in_folder.py` — a helper script to scan for non-ASCII filenames before deployment.
 
 ## 🛠 Requirements
 
